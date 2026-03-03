@@ -13,7 +13,7 @@ const Index = () => {
         <div className="absolute bottom-[-20%] right-[-10%] w-[600px] h-[600px] rounded-full bg-accent/5 blur-[150px]" />
       </div>
 
-      <div className="relative z-10 max-w-3xl mx-auto px-6 py-12 space-y-16">
+      <div className="relative z-10 max-w-5xl mx-auto px-6 py-12 space-y-16">
         <HeroHeader />
         <BrandSoulSection />
         <AdSettingsSection />
